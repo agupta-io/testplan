@@ -1,5 +1,5 @@
 import re
-from cgi import escape
+from html import escape
 
 from reportlab.lib import colors
 from reportlab.platypus import Paragraph
